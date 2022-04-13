@@ -1,0 +1,74 @@
+--2013-07-05 08:00:16--  ftp://volhov:*password*@mics2.ltg.gazprom.ru/software/MIKS/MIKS2013/
+           => `./.listing'
+Resolving mics2.ltg.gazprom.ru... 10.9.14.9
+Connecting to mics2.ltg.gazprom.ru|10.9.14.9|:21... connected.
+Logging in as volhov ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD /software/MIKS/MIKS2013 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K ..                                                     40.0M=0s
+
+2013-07-05 08:00:22 (40.0 MB/s) - `./.listing' saved [2888]
+
+Removed `./.listing'.
+Not descending to `software/MIKS/MIKS2013/01-04-18' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-20-13' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-26-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-26-13' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-27-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-27-18' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-28-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-28-14' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/02-28-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-01-14' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-04-13' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-12-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-13-10' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-14-17' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-15-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-18-14' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-18-17' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-19-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-22-13' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-25-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-25-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-25-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-26-08' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-26-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-28-11' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/03-28-14' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-03-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-04-14' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-05-12' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-09-08' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-09-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-11-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-12-08' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-15-18' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-16-11' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-16-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/04-17-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/05-31-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/06-03-13' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/200613' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/integro' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/zarplata' as it is excluded/not-included.
+--2013-07-05 08:00:23--  ftp://volhov:*password*@mics2.ltg.gazprom.ru/software/MIKS/MIKS2013/zarplata/
+           => `./zarplata/.listing'
+Resolving mics2.ltg.gazprom.ru... 10.9.14.9
+Connecting to mics2.ltg.gazprom.ru|10.9.14.9|:21... connected.
+Logging in as volhov ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD /software/MIKS/MIKS2013/zarplata ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        10.8K=0.03s
+
+2013-07-05 08:00:24 (10.8 KB/s) - `./zarplata/.listing' saved [383]
+
+Removed `./zarplata/.listing'.
+Not descending to `software/MIKS/MIKS2013/zarplata/02-13-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/zarplata/03-13-16' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/zarplata/03-14-15' as it is excluded/not-included.
+Not descending to `software/MIKS/MIKS2013/zarplata/06-07-11' as it is excluded/not-included.

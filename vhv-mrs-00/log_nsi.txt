@@ -1,0 +1,167 @@
+--2015-02-25 08:25:12--  ftp://miks:*password*@10.9.14.9/Mrs/
+           => `./.listing'
+Connecting to 10.9.14.9:21... connected.
+Logging in as miks ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD /Mrs ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K .....                                                  1.04M=0.005s
+
+2015-02-25 08:25:13 (1.04 MB/s) - `./.listing' saved [5531]
+
+Removed `./.listing'.
+Rejecting `M2O00101$ORA02$ORA01(053902).MRS'.
+Rejecting `M2O00101$ORA04$ORA01(054766).MRS'.
+Rejecting `M2O00101$ORA07$ORA01(054332).MRS'.
+Rejecting `M2O00101$ORA09$ORA01(054205).MRS'.
+Rejecting `M2O00101$ORA10$ORA01(052664).MRS'.
+Rejecting `M2O00101$ORA11$ORA01(054107).MRS'.
+Rejecting `M2O00101$ORA13$ORA01(052518).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052519).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052520).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052521).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052522).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052523).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052524).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052525).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052526).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052527).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052528).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052529).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052530).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052531).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052532).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052533).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052534).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052535).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052536).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052537).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052538).YES'.
+Rejecting `M2O00101$ORA13$ORA01(052539).YES'.
+Rejecting `M2O00101$ORA14$ORA01(052632).MRS'.
+Rejecting `M2O00101$ORA15$ORA01(052637).MRS'.
+Rejecting `M2O00101$ORA16$ORA01(051796).MRS'.
+Rejecting `M2O00101$ORA19$ORA01(054048).MRS'.
+Rejecting `M2O00101$ORA20$ORA01(053889).MRS'.
+Rejecting `M2O00101$ORA20$ORA01(053890).MRS'.
+Rejecting `M2O00101$ORA20$ORA01(053891).MRS'.
+Rejecting `M2O00101$ORA20$ORA01(053892).MRS'.
+Rejecting `M2O00101$ORA22$ORA01(053968).MRS'.
+Rejecting `M2O00101$ORA24$ORA01(052294).MRS'.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052540).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052541).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052542).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052543).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052544).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052545).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052546).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052547).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052548).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052549).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052550).MRS' -- not retrieving.
+Remote file no newer than local file `./M2O00101$ORA13$ORA01(052551).MRS' -- not retrieving.
+Not descending to `Mrs/ASBU' as it is excluded/not-included.
+Not descending to `Mrs/GKI' as it is excluded/not-included.
+Not descending to `Mrs/MRS_AGGR' as it is excluded/not-included.
+Not descending to `Mrs/MRS_BACK' as it is excluded/not-included.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_Dogovor/
+           => `./MRS_Dogovor/.listing'
+==> CWD /Mrs/MRS_Dogovor ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                         333K=0.001s
+
+2015-02-25 08:25:13 (333 KB/s) - `./MRS_Dogovor/.listing' saved [269]
+
+Removed `./MRS_Dogovor/.listing'.
+Rejecting `DGD13(01)3272.YES'.
+Rejecting `DGD13(01)3273.YES'.
+Not descending to `Mrs/MRS_FOND' as it is excluded/not-included.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_NAKL/
+           => `./MRS_NAKL/.listing'
+==> CWD /Mrs/MRS_NAKL ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        8.21M=0s
+
+2015-02-25 08:25:13 (8.21 MB/s) - `./MRS_NAKL/.listing' saved [119]
+
+Removed `./MRS_NAKL/.listing'.
+Not descending to `Mrs/MRS_SF' as it is excluded/not-included.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_SYNC_MSSQL/
+           => `./MRS_SYNC_MSSQL/.listing'
+==> CWD /Mrs/MRS_SYNC_MSSQL ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        12.2M=0s
+
+2015-02-25 08:25:13 (12.2 MB/s) - `./MRS_SYNC_MSSQL/.listing' saved [182]
+
+Removed `./MRS_SYNC_MSSQL/.listing'.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_SYNC_MSSQL/SALDO/
+           => `./MRS_SYNC_MSSQL/SALDO/.listing'
+==> CWD /Mrs/MRS_SYNC_MSSQL/SALDO ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        6.57M=0s
+
+2015-02-25 08:25:13 (6.57 MB/s) - `./MRS_SYNC_MSSQL/SALDO/.listing' saved [119]
+
+Removed `./MRS_SYNC_MSSQL/SALDO/.listing'.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_SYNC_ORACLE/
+           => `./MRS_SYNC_ORACLE/.listing'
+==> CWD /Mrs/MRS_SYNC_ORACLE ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        17.9M=0s
+
+2015-02-25 08:25:13 (17.9 MB/s) - `./MRS_SYNC_ORACLE/.listing' saved [317]
+
+Removed `./MRS_SYNC_ORACLE/.listing'.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_SYNC_ORACLE/15-01-14/
+           => `./MRS_SYNC_ORACLE/15-01-14/.listing'
+==> CWD /Mrs/MRS_SYNC_ORACLE/15-01-14 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        7.58M=0s
+
+2015-02-25 08:25:13 (7.58 MB/s) - `./MRS_SYNC_ORACLE/15-01-14/.listing' saved [119]
+
+Removed `./MRS_SYNC_ORACLE/15-01-14/.listing'.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_SYNC_ORACLE/15-01-28/
+           => `./MRS_SYNC_ORACLE/15-01-28/.listing'
+==> CWD /Mrs/MRS_SYNC_ORACLE/15-01-28 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        6.87M=0s
+
+2015-02-25 08:25:13 (6.87 MB/s) - `./MRS_SYNC_ORACLE/15-01-28/.listing' saved [119]
+
+Removed `./MRS_SYNC_ORACLE/15-01-28/.listing'.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/MRS_SYNC_ORACLE/15-02-13/
+           => `./MRS_SYNC_ORACLE/15-02-13/.listing'
+==> CWD /Mrs/MRS_SYNC_ORACLE/15-02-13 ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        23.6M=0s
+
+2015-02-25 08:25:13 (23.6 MB/s) - `./MRS_SYNC_ORACLE/15-02-13/.listing' saved [389]
+
+Removed `./MRS_SYNC_ORACLE/15-02-13/.listing'.
+Rejecting `08(ORA99)mrssync@0021_150213.mrs'.
+Rejecting `08(ORA99)mrssync@0022_150213.mrs'.
+Rejecting `12(ORA99)mrssync@0390_150213.mrs'.
+Not descending to `Mrs/OD' as it is excluded/not-included.
+--2015-02-25 08:25:13--  ftp://miks:*password*@10.9.14.9/Mrs/ORACL/
+           => `./ORACL/.listing'
+==> CWD /Mrs/ORACL ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        6.72M=0s
+
+2015-02-25 08:25:13 (6.72 MB/s) - `./ORACL/.listing' saved [119]
+
+Removed `./ORACL/.listing'.
+Not descending to `Mrs/ORACLE' as it is excluded/not-included.
+Not descending to `Mrs/XI' as it is excluded/not-included.

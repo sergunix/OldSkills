@@ -1,0 +1,55 @@
+--2013-07-03 16:11:02--  ftp://volhov:*password*@10.9.14.9/aup/helpdesk/GIS_NEVA
+           => `./.listing'
+Connecting to 10.9.14.9:21... connected.
+Logging in as volhov ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD /aup/helpdesk ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K ...                                                    1.65M=0.002s
+
+2013-07-03 16:11:02 (1.65 MB/s) - `./.listing' saved [3607]
+
+Rejecting `.bash_logout'.
+Rejecting `.bash_profile'.
+Rejecting `.bashrc'.
+Rejecting `.gtkrc'.
+Rejecting `04-02-\312\313\317.PDF'.
+Rejecting `BDE.7z'.
+Rejecting `BOIE9_RURU_WIN7.exe'.
+Rejecting `EPDK_PersonalP.zip'.
+Rejecting `IEandOE.7z'.
+Rejecting `ISS2.zip'.
+Rejecting `Norton_Removal_Tool.exe'.
+Rejecting `Prom_truboprovod_armatura.zip'.
+Rejecting `TOADORACLE_FREEWARE_116_X86.MSI'.
+Rejecting `Torjok-4-2007.7z'.
+Rejecting `acopk.zip'.
+Rejecting `modul_prirodopolzovatelya.7z'.
+Rejecting `persw3_6.zip'.
+Rejecting `rsviewlogviewer.7z'.
+Rejecting `tools-windows-8.4.6.exe.tar'.
+Rejecting `tools-windows-8.8.0.exe.tar'.
+Rejecting `wmfdist11.exe'.
+Rejecting `\303\340\347\357\360\356\354\362\345\365\355\356\360\354\340.zip'.
+Rejecting `\316\361\355\340\371\345\355\350\345 \310\322\321\316.7z'.
+Rejecting `\323\361\362\340\355\356\342\352\340 Oracle10g \352\353\350\345\355\362\340 \357\356\344 Vista.doc'.
+--2013-07-03 16:11:02--  ftp://volhov:*password*@10.9.14.9/aup/helpdesk/GIS_NEVA/GIS_NEVA
+           => `./.listing'
+==> CWD /aup/helpdesk/GIS_NEVA ... done.
+==> PASV ... done.    ==> LIST ... done.
+
+     0K                                                        20.3K=0.009s
+
+2013-07-03 16:11:02 (20.3 KB/s) - `./.listing' saved [183]
+
+Rejecting `CMD.7z'.
+--2013-07-03 16:11:03--  ftp://volhov:*password*@10.9.14.9/aup/helpdesk/GIS_NEVA/GIS_NEVA
+           => `./GIS_NEVA'
+==> CWD not required.
+==> SIZE GIS_NEVA ... done.
+==> PASV ... done.    ==> RETR GIS_NEVA ... 
+No such file `GIS_NEVA'.
+
+FINISHED --2013-07-03 16:11:03--
+Downloaded: 2 files, 3.7K in 0.01s (340 KB/s)

@@ -1,0 +1,12 @@
+sp-lvol-kr01	
+sp-lvol-kr02
+sp-lvol-ar15
+sp-lvol-ar16
+sp-lvol-dd01
+sp-lvol-dd02
+sp-lvol-rr01
+sp-lvol-rr02
+sp-lvol-ar01
+sp-lvol-ar02
+sp-lvol-ar03
+spectr-lvol

@@ -1,0 +1,18 @@
+: 
+ 
+ Directory of D:\Arm_Updates\_Replication\ORACLE
+25.02.2015  06:00            77 064 M2O00101$ORA01$ORA13(011066).MRS
+25.02.2015  08:05            14 201 M2O00102$ORA99$ORA13(009503).MRS
+25.02.2015  06:00            86 946 M2O00103$ORA99$ORA13(009854).MRS
+ Directory of V:\Mrs\ORACLE
+25.02.2015  11:11            77 064 M2O00101$ORA01$ORA13(011066).MRS
+25.02.2015  11:11            14 201 M2O00102$ORA99$ORA13(009503).MRS
+25.02.2015  11:11            86 946 M2O00103$ORA99$ORA13(009854).MRS
+ Directory of D:\Arm_Updates\_Replication\ASBU
+ Directory of V:\Mrs\ASBU
+ Directory of D:\Arm_Updates\_Replication\MRS_Dogovor
+ Directory of V:\Mrs\MRS_Dogovor
+ Directory of D:\Arm_Updates\_Replication\MRS_NAKL
+ Directory of V:\Mrs\MRS_NAKL
+ Directory of Y:\#Volhov\ARM_UPDATES\_Replication\MRS_SF
+ Directory of V:\Mrs\MRS_SF

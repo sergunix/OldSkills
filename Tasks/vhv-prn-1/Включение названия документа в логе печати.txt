@@ -1,0 +1,14 @@
+
+I have configured a Server 2012 R2 standard as print server to manage printers and Monitor the print usage of users, however I am not getting the Print logs (Event Log ID 307) in the default event logs directory on the print Server.
+I perform some search and come to know that it’s a known problem in Server 2012 and there is Hotfix available. I installed the Hotfix mentioned here http://support2.microsoft.com/kb/2938013/en-us , but still logs are not getting generated.
+I also made the below setting for the logs.
+
+1.	Creating Registry entry
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Policies\Microsoft\Windows NT\Printers] "ShowJobTitleInEventLogs"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Printers] "ShowJobTitleInEventLogs"=dword:00000001
+
+1.	The policy name: Computer Configuration \ Administrative Templates \ Printers Allow job name in event logs
+
+2.	Keep printed Docs setting is also enabled on all the printers installed on Print Server.
+Noting seems to be working here or am i doing something wrong here.

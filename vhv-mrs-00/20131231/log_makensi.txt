@@ -1,0 +1,22 @@
+: 
+ 
+ Содержимое папки D:\Arm_Updates\_Replication\ORACLE
+05.07.2013  09:12             2 229 M2O00101$ORA01$ORA13(006249).MRS
+05.07.2013  09:12             1 251 M2O00102$ORA99$ORA13(004944).MRS
+05.07.2013  09:12             6 299 M2O00103$ORA99$ORA13(005557).MRS
+05.07.2013  09:12             1 491 M2O00104$ORA99$ORA13(004940).MRS
+ Содержимое папки v:\Mrs\ORACLE
+05.07.2013  13:13             2 229 M2O00101$ORA01$ORA13(006249).MRS
+05.07.2013  13:13             1 251 M2O00102$ORA99$ORA13(004944).MRS
+05.07.2013  13:13             6 299 M2O00103$ORA99$ORA13(005557).MRS
+05.07.2013  13:13             1 491 M2O00104$ORA99$ORA13(004940).MRS
+ Содержимое папки D:\Arm_Updates\_Replication\ASBU
+05.07.2013  09:12             5 055 M2O01010$ASBU99$ORA13(001741).MRS
+ Содержимое папки v:\Mrs\ASBU
+05.07.2013  13:13             5 055 M2O01010$ASBU99$ORA13(001741).MRS
+ Содержимое папки D:\Arm_Updates\_Replication\MRS_Dogovor
+ Содержимое папки v:\Mrs\MRS_Dogovor
+ Содержимое папки D:\Arm_Updates\_Replication\MRS_NAKL
+ Содержимое папки v:\Mrs\MRS_NAKL
+ Содержимое папки Y:\#Volhov\ARM_UPDATES\_Replication\MRS_SF
+ Содержимое папки v:\Mrs\MRS_SF

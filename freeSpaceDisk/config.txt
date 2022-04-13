@@ -1,0 +1,20 @@
+vhv-apache-01	C|10
+vhv-backup-01	C|10	D|100
+vhv-backup-3	C|10	D|100
+vhv-dc-1	C|30	
+vhv-dc-2	C|30
+vhv-fs-1	C|10	D|50
+vhv-hv-1	C|10	D|50	E|50
+vhv-hv-2	C|10	D|50
+vhv-isasutp-01	C|100	D|50
+vhv-ksc-1	C|10
+vhv-mail-1	C|10	D|50
+vhv-prn-1	C|10
+vhv-sccm-ss-1	C|10	D|100
+vhv-sim-1	C|10
+vhv-vcenter-1	C|10
+vhv-wsus-1	C|10	
+vhv-wtse-00	C|10	
+
+
+

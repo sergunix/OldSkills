@@ -1,0 +1,2 @@
+sftp://volhov:wohv9hxz@corp-ftp.corp.it.ltg.gazprom.ru/software/MIKS/MIKS2015/: Unsupported scheme.
+sftp://volhov:wohv9hxz@corp-ftp.corp.it.ltg.gazprom.ru/software/MIKS/MIKS2015/zarplata/: Unsupported scheme.
